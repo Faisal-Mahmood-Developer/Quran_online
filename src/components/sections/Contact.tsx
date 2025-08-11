@@ -175,7 +175,7 @@ export const Contact = () => {
                   For urgent matters or immediate enrollment support, contact our emergency helpline.
                 </p>
                 <Button className="bg-islamic-gold text-primary shadow-gold hover:bg-islamic-gold/90">
-                  Call Emergency Line: +1 (555) 911-QURAN
+                  Call Emergency Line: +92 312 1371229
                 </Button>
               </CardContent>
             </Card>
